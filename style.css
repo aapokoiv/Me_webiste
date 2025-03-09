@@ -1,5 +1,29 @@
+body {
+	margin: 0 auto;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	line-height: 1.5;
+	padding: 4em 1em;
+	color: #555;
+}
 
+.vasen_laita {
+	background-color: #ffbf33;
+	height: 100em;
+	width: 20em;
+	margin-left: 0em;
+	margin-top: 0em;
+	padding: 1em;
+	right: 2em;
+	
+}
+
+.leipateksti {
+	position: absolute;
+	left: 25em;
+}
 
 a {
-  color: blue;
+    color: blue;
 }
+
+
